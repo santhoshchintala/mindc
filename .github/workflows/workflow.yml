@@ -1,4 +1,4 @@
-name: 'Terraform infra'
+name: 'Terraform aws infra'
 
 on:
   workflow_dispatch:
